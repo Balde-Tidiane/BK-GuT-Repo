@@ -11,3 +11,4 @@ if __name__ == "__main__":
     max_value = int(input("Größter Wert: "))
     
     generate_random_numbers(num_count, min_value, max_value)
+    #Das ist super!
